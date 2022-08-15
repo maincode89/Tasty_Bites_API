@@ -86,6 +86,12 @@
             "descripcion": "De 8 a 10 porciones."
         },
         {
+            "imagen": "",
+            "nombre": "Pan de minuto",
+            "precio": 2500,
+            "descripcion": "8 unidades. Cebolla, chile y queso"
+        },
+        {
             "imagen": "assets/img/gallery/image12.jpeg",
             "nombre": "Pancitos de jamón y cebollino",
             "precio": 3500,
