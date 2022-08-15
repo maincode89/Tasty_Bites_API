@@ -1,93 +1,79 @@
 {
     "productos": [
         {
-            "clasificacion": "Pan de banano",
             "imagen": "assets/img/gallery/image1.jpeg",
-            "nombre": "Lobster Bisque",
+            "nombre": "Pan de banano",
             "precio": 4500,
-            "descripcion": "Esponjoso pan perfecto para el café o acompañar con helado. De 6 a 8 porciones"
+            "descripcion": "Esponjoso pan perfecto para el café o acompañar con helado. De 6 a 8 porciones."
         },
         {
-            "clasificacion": "specialty",
-            "imagen": "assets/img/menu/bread-barrel.jpg",
-            "nombre": "Bread Barrel",
-            "precio": 6.95,
-            "ingredientes": "Lorem, deren, trataro, filede, nerada"
+            "imagen": "assets/img/gallery/image1.jpeg",
+            "nombre": "Tartaletas",
+            "precio": 2000,
+            "ingredientes": "Deliciosa masa rellena con crema pastelera y frutas. 2 unidades."
         },
+        
         {
-            "clasificacion": "starters",
-            "imagen": "assets/img/menu/cake.jpg",
-            "nombre": "Crab Cake",
-            "precio": 7.95,
-            "ingredientes": "A delicate crab cake served on a toasted roll with lettuce and tartar sauce"
-        },
-        {
-            "clasificacion": "salads",
-            "imagen": "assets/img/menu/caesar.jpg",
-            "nombre": "Caesar Selections",
-            "precio": 8.95,
-            "ingredientes": "Lechuga, Salsa, Pan, Jamón"
-        },
-        {
-            "clasificacion": "specialty",
-            "imagen": "assets/img/menu/tuscan-grilled.jpg",
-            "nombre": "Tuscan Grilled",
-            "precio": 9.95,
-            "ingredientes": "Grilled chicken with provolone, artichoke hearts, and roasted red pesto"
-        },
-        {
-            "clasificacion": "starters",
-            "imagen": "assets/img/menu/mozzarella.jpg",
-            "nombre": "Mozzarella Stick",
-            "precio": 4.95,
-            "ingredientes": "Queso Mozzarela, Pan, Aceite"
-        },
-        {
-            "clasificacion": "salads",
-            "imagen": "assets/img/menu/greek-salad.jpg",
-            "nombre": "Greek Salad",
-            "precio": 9.95,
-            "ingredientes": "Fresh spinach, crisp romaine, tomatoes, and Greek olives"
-        },
-
-        {
-            "clasificacion": "salads",
             "imagen": "assets/img/menu/spinach-salad.jpg",
-            "nombre": "Spinach Salad",
-            "precio": 8.71,
-            "ingredientes": "Fresh spinach with mushrooms, hard boiled egg, and warm bacon vinaigrette"
+            "nombre": "Tartaleta grande",
+            "precio": 13500,
+            "ingredientes": "Deliciosa masa rellena con crema pastelera y frutas. de 8 a 10 porciones."
         },
-
         {
-            "clasificacion": "specialty",
+            "imagen": "assets/img/gallery/image3.jpeg",
+            "nombre": "Queque de zanahoria",
+            "precio": 5500,
+            "ingredientes": "Los vegetales son indispensables en una dieta. de 6 a 8 porciones."
+        },
+        {
+            "imagen": "assets/img/gallery/image4.jpeg",
+            "nombre": "Rice Krispies",
+            "precio": 1500,
+            "ingredientes": ". 1 unidad."
+        },
+        {
+            "imagen": "assets/img/menu/tuscan-grilled.jpg",
+            "nombre": "Cupcakes",
+            "precio": 6500,
+            "ingredientes": "Rellenos de dulce de leche y decorados con buttercream. 6 Unidades"
+        },
+        {
+            "imagen": "assets/img/menu/mozzarella.jpg",
+            "nombre": "Pancitos de papa y queso",
+            "precio": 1500,
+            "ingredientes": ". 4 unidades."
+        },
+        {
+            "imagen": "assets/img/menu/greek-salad.jpg",
+            "nombre": "Trenza de pan",
+            "precio": 1500,
+            "ingredientes": ". 2 unidades."
+        },
+        {
             "imagen": "assets/img/menu/lobster-roll.jpg",
-            "nombre": "Lobster Roll",
-            "precio": 12.95,
-            "ingredientes": "Plump lobster meat, mayo and crisp lettuce on a toasted bulky roll"
+            "nombre": "Cheesecake grande",
+            "precio": 15000,
+            "ingredientes": ". de 8 a 12 porciones."
         },
-
         {
-            "clasificacion": "specialty",
             "imagen": "assets/img/menu/gallo-pinto.jpg",
-            "nombre": "Gallo Pinto",
-            "precio": 5.23,
-            "ingredientes": "Arroz, Frijoles, Huevo, Platano, Culantro"
+            "nombre": "Torta fría de melocotones",
+            "precio": 16500,
+            "ingredientes": ""
         },
 
         {
-            "clasificacion": "starters",
             "imagen": "assets/img/menu/patacones.jpg",
-            "nombre": "Patacones",
-            "precio": 7.42,
-            "ingredientes": "Platano Verde, Aguacate, Tomate, Pollo"
+            "nombre": "Cheesecake de brownie",
+            "precio": 15500,
+            "ingredientes": ". de 8 a 12 porciones."
         },
 
         {
-            "clasificacion": "salads",
             "imagen": "assets/img/menu/ensalada-rusa.jpg",
-            "nombre": "Ensalada Rusa",
-            "precio": 3.15,
-            "ingredientes": "Remolacha. Mayonesa, Papa, Huevo"
+            "nombre": "Pancitos de jamón y cebollino",
+            "precio": 3500,
+            "ingredientes": "10 unidades."
         }
 
     
