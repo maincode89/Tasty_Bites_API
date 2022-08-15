@@ -1,11 +1,11 @@
 {
     "productos": [
         {
-            "clasificacion": "starters",
-            "imagen": "assets/img/menu/lobster-bisque.jpg",
+            "clasificacion": "Pan de banano",
+            "imagen": "assets/img/gallery/image1.jpeg",
             "nombre": "Lobster Bisque",
-            "precio": 5.95,
-            "ingredientes": "Lorem, deren, trataro, filede, nerada"
+            "precio": 4500,
+            "descripcion": "Esponjoso pan perfecto para el café o acompañar con helado. De 6 a 8 porciones"
         },
         {
             "clasificacion": "specialty",
