@@ -7,14 +7,14 @@
             "descripcion": "Esponjoso pan perfecto para el café o acompañar con helado. De 6 a 8 porciones."
         },
         {
-            "imagen": "assets/img/gallery/image1.jpeg",
+            "imagen": "assets/img/gallery/image2.jpeg",
             "nombre": "Tartaletas",
             "precio": 2000,
             "ingredientes": "Deliciosa masa rellena con crema pastelera y frutas. 2 unidades."
         },
         
         {
-            "imagen": "assets/img/menu/spinach-salad.jpg",
+            "imagen": "assets/img/gallery/image6.jpeg",
             "nombre": "Tartaleta grande",
             "precio": 13500,
             "ingredientes": "Deliciosa masa rellena con crema pastelera y frutas. de 8 a 10 porciones."
@@ -32,45 +32,45 @@
             "ingredientes": ". 1 unidad."
         },
         {
-            "imagen": "assets/img/menu/tuscan-grilled.jpg",
+            "imagen": "assets/img/gallery/image5.jpeg",
             "nombre": "Cupcakes",
             "precio": 6500,
             "ingredientes": "Rellenos de dulce de leche y decorados con buttercream. 6 Unidades"
         },
         {
-            "imagen": "assets/img/menu/mozzarella.jpg",
+            "imagen": "assets/img/gallery/image6.jpeg",
             "nombre": "Pancitos de papa y queso",
             "precio": 1500,
             "ingredientes": ". 4 unidades."
         },
         {
-            "imagen": "assets/img/menu/greek-salad.jpg",
+            "imagen": "assets/img/gallery/image7.jpeg",
             "nombre": "Trenza de pan",
             "precio": 1500,
             "ingredientes": ". 2 unidades."
         },
         {
-            "imagen": "assets/img/menu/lobster-roll.jpg",
+            "imagen": "assets/img/gallery/image9.jpeg",
             "nombre": "Cheesecake grande",
             "precio": 15000,
             "ingredientes": ". de 8 a 12 porciones."
         },
         {
-            "imagen": "assets/img/menu/gallo-pinto.jpg",
+            "imagen": "assets/img/gallery/image10.jpeg",
             "nombre": "Torta fría de melocotones",
             "precio": 16500,
             "ingredientes": ""
         },
 
         {
-            "imagen": "assets/img/menu/patacones.jpg",
+            "imagen": "assets/img/gallery/image11.jpeg",
             "nombre": "Cheesecake de brownie",
             "precio": 15500,
             "ingredientes": ". de 8 a 12 porciones."
         },
 
         {
-            "imagen": "assets/img/menu/ensalada-rusa.jpg",
+            "imagen": "assets/img/gallery/image12.jpeg",
             "nombre": "Pancitos de jamón y cebollino",
             "precio": 3500,
             "ingredientes": "10 unidades."
