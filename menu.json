@@ -1,98 +1,82 @@
 {
     "productos": [
         {
-            "imagen": "assets/img/gallery/image1.jpeg",
             "nombre": "Pan de banano",
             "precio": 4500,
             "descripcion": "Esponjoso pan perfecto para el café o acompañar con helado. De 6 a 8 porciones."
         },
         {
-            "imagen": "assets/img/gallery/image2.jpeg",
             "nombre": "Tartaletas",
             "precio": 2000,
             "descripcion": "Deliciosa masa rellena con crema pastelera y frutas. 2 unidades."
         },
         
         {
-            "imagen": "assets/img/gallery/image6.jpeg",
             "nombre": "Tartaleta grande",
             "precio": 13500,
             "descripcion": "Deliciosa masa rellena con crema pastelera y frutas. de 8 a 10 porciones."
         },
         {
-            "imagen": "assets/img/gallery/image3.jpeg",
             "nombre": "Queque de zanahoria<br>Queque de zuchinni con arándanos",
             "precio": 5500,
             "descripcion": "Los vegetales son indispensables en una dieta. de 6 a 8 porciones."
         },
         {
-            "imagen": "assets/img/gallery/image4.jpeg",
             "nombre": "Rice Krispies",
             "precio": 1500,
             "descripcion": "1 unidad."
         },
         {
-            "imagen": "assets/img/gallery/image5.jpeg",
             "nombre": "Cupcakes",
             "precio": 6500,
             "descripcion": "Rellenos de dulce de leche y decorados con buttercream. 6 Unidades"
         },
         {
-            "imagen": "assets/img/gallery/image6.jpeg",
             "nombre": "Pancitos de papa y queso",
             "precio": 1500,
             "descripcion": "4 unidades."
         },
         {
-            "imagen": "assets/img/gallery/image7.jpeg",
             "nombre": "Trenza de pan",
             "precio": 1500,
             "descripcion": "2 unidades."
         },
         {
-            "imagen": "assets/img/gallery/image9.jpeg",
             "nombre": "Cheesecake, sabores: arándanos, brownie, fresa y maracuyá.<br>(Porción &#x20a1;2500)",
             "precio": 15000,
             "descripcion": "De 8 a 12 porciones."
         },
         {
-            "imagen": "assets/img/gallery/image10.jpeg",
             "nombre": "Torta fría de melocotones",
             "precio": 16500,
             "descripcion": ""
         },
         {
-            "imagen": "assets/img/gallery/image10.jpeg",
             "nombre": "Pie de limón (Porción &#x20a1;2500)",
             "precio": 15000,
             "descripcion": "De 8 a 12 porciones."
         },
         {
-            "imagen": "",
             "nombre": "Torta chilena individual",
             "precio": 2500,
             "descripcion": ""
         },
         {
-            "imagen": "",
             "nombre": "Tres leches, sabores: baileys, chocolate y tradicional.<br>(10 a 12 porciones)",
             "precio": 12000,
             "descripcion": "Porción &#x20a1;1500, mediano &#x20a1;6500 (6 a 8 porciones)"
         },
         {
-            "imagen": "",
             "nombre": "Esponjoso de yuca",
             "precio": 5500,
             "descripcion": "De 8 a 10 porciones."
         },
         {
-            "imagen": "",
             "nombre": "Pan de minuto",
             "precio": 2500,
             "descripcion": "8 unidades. Cebolla, chile y queso"
         },
         {
-            "imagen": "assets/img/gallery/image12.jpeg",
             "nombre": "Pancitos de jamón y cebollino",
             "precio": 3500,
             "descripcion": "10 unidades."
