@@ -3,23 +3,23 @@
         {
             "nombre": "Pan de banano",
             "precio": 4500,
-            "descripcion": "Esponjoso pan perfecto para el café o acompañar con helado. De 6 a 8 porciones."
+            "descripcion": "De 6 a 8 porciones."
         },
         {
             "nombre": "Tartaletas",
             "precio": 2000,
-            "descripcion": "Deliciosa masa rellena con crema pastelera y frutas. 2 unidades."
+            "descripcion": "2 unidades."
         },
         
         {
             "nombre": "Tartaleta grande",
             "precio": 13500,
-            "descripcion": "Deliciosa masa rellena con crema pastelera y frutas. de 8 a 10 porciones."
+            "descripcion": "De 8 a 10 porciones."
         },
         {
             "nombre": "Queque de zanahoria<br>Queque de zuchinni con arándanos",
             "precio": 5500,
-            "descripcion": "Los vegetales son indispensables en una dieta. de 6 a 8 porciones."
+            "descripcion": "De 6 a 8 porciones."
         },
         {
             "nombre": "Rice Krispies",
@@ -29,7 +29,7 @@
         {
             "nombre": "Cupcakes",
             "precio": 6500,
-            "descripcion": "Rellenos de dulce de leche y decorados con buttercream. 6 Unidades"
+            "descripcion": "6 Unidades"
         },
         {
             "nombre": "Pancitos de papa y queso",
@@ -72,9 +72,9 @@
             "descripcion": "De 8 a 10 porciones."
         },
         {
-            "nombre": "Pan de minuto",
+            "nombre": "Pan de minuto (Cebolla, chile y queso)",
             "precio": 2500,
-            "descripcion": "8 unidades. Cebolla, chile y queso"
+            "descripcion": "8 unidades."
         },
         {
             "nombre": "Pancitos de jamón y cebollino",
